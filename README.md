@@ -9,3 +9,6 @@ the solution is simple,just delete the _lock file is ok.
 ////////
 2.The conflict between your extension' setting modelsim>>lintting>>path and your envirment path,it isn't happen for someone,but for me,it happens.
 the solution is deleting the modelsim>>linting>>path,just keep it blank.
+
+
+If you have more problems about it,welcome to talk with me.
